@@ -14,7 +14,7 @@ function Bubble()
     {
         for(var j=0;j<array_size-i-1;j++)
         {
-            div_update(divs[j],div_sizes[j],"yellow");//Color update
+            div_update(divs[j],div_sizes[j],"#f3e600");//Color update
 
             if(div_sizes[j]>div_sizes[j+1])
             {
@@ -28,7 +28,7 @@ function Bubble()
                 div_update(divs[j],div_sizes[j], "red");//Height update
                 div_update(divs[j+1],div_sizes[j+1], "red");//Height update
             }
-            div_update(divs[j],div_sizes[j], "blue");//Color updat
+            div_update(divs[j],div_sizes[j], "#0066ff");//Color update
         }
         div_update(divs[j],div_sizes[j], "green");//Color update
     }

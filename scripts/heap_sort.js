@@ -27,8 +27,8 @@ function swap(i,j)
     div_update(divs[i],div_sizes[i],"red");//Height update
     div_update(divs[j],div_sizes[j],"red");//Height update
 
-    div_update(divs[i],div_sizes[i],"blue");//Color update
-    div_update(divs[j],div_sizes[j],"blue");//Color update
+    div_update(divs[i],div_sizes[i],"#0066ff");//Color update
+    div_update(divs[j],div_sizes[j],"#0066ff");//Color update
 }
 
 function max_heapify(n,i)
