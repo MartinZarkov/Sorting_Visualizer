@@ -1,5 +1,4 @@
 Sorting_Visualizer - A web application showcasing the inner workings of sorting algorithms.<br/>
-<br/>
 1. Implemented algorithms:<br/>
 
 1.1 Bubble sort<br/>
