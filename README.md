@@ -23,5 +23,5 @@ Sorting_Visualizer - A web application showcasing the inner workings of sorting 
 
 Time and Space complexity of algorithm being visualized.<br/>
 
-Inspired by: Clément Mihailescu
+Inspired by: Clément Mihailescu<br/>
 Reference Video: https://www.youtube.com/watch?v=pFXYym4Wbkc
