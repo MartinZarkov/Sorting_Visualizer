@@ -22,3 +22,5 @@ Sorting_Visualizer - A web application showcasing the inner workings of sorting 
 3.3) Generation of new array values (Randomly generate new data).<br/>
 
 Time and Space complexity of algorithm being visualized.<br/>
+
+Inspired by: Clément Mihailescu
